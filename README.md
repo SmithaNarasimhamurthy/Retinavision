@@ -14,7 +14,7 @@ Web App: [RetinaVision AI](https://retinavisionai.streamlit.app/)
 
 ---
 
-## 🚀 Features  
+🚀 Features  
 ✔ **Deep Learning-based Disease Detection** using **DenseNet-121**  
 ✔ **User-friendly Web App** built with **Streamlit**  
 ✔ **Upload & Analyze** multiple OCT images instantly  
@@ -23,7 +23,7 @@ Web App: [RetinaVision AI](https://retinavisionai.streamlit.app/)
 
 ---
 
-## 📂 Dataset Structure  
+📂 Dataset Structure  
 Ensure your dataset follows this structure:  
 
 ```
@@ -50,31 +50,31 @@ dataset/
 │   ├── cataract/
 ```
 
-📌 **Each folder should contain images of the respective class.**
+📌 Each folder should contain images of the respective class.**
 
 ---
 
-## 🛠️ Installation  
+ 🛠️ Installation  
 
-### 1️⃣ Clone the Repository  
+ 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/RetinaVision-AI.git
 cd RetinaVision-AI
 ```
 
-### 2️⃣ Install Dependencies  
+ 2️⃣ Install Dependencies  
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the Streamlit App  
+ 3️⃣ Run the Streamlit App  
 ```bash
 streamlit run app.py
 ```
 
 ---
 
-## 📊 Model Training  
+📊 Model Training  
 To train the model on your dataset, run:  
 ```bash
 python train.py
@@ -82,14 +82,14 @@ python train.py
 
 ---
 
-## 🖼️ Sample Predictions  
+ 🖼️ Sample Predictions  
 Upload an OCT image, and the model will predict:  
 🔍 **Category** (e.g., Normal, Diabetic Retinopathy, etc.)  
 📊 **Confidence Score (%)**  
 
 ---
 
-## 💡 Technologies Used  
+💡 Technologies Used  
 🔹 **Python** 🐍  
 🔹 **PyTorch** 🔥  
 🔹 **Torchvision** 🖼️  
@@ -99,25 +99,25 @@ Upload an OCT image, and the model will predict:
 
 ---
 
-## 🤝 Contributing  
+🤝 Contributing  
 Want to improve RetinaVision AI? Feel free to contribute!  
 
-### 1️⃣ Fork this repository 🍴  
-### 2️⃣ Create a new branch 🏗  
-### 3️⃣ Make your changes and commit them 💾  
-### 4️⃣ Submit a Pull Request 🔄  
+ 1️⃣ Fork this repository 🍴  
+ 2️⃣ Create a new branch 🏗  
+ 3️⃣ Make your changes and commit them 💾  
+ 4️⃣ Submit a Pull Request 🔄  
 
 ---
 
-## 🏅 Acknowledgements  
+ 🏅 Acknowledgements  
 🙌 Thanks to **OpenAI, PyTorch, and the AI community** for continuous support!  
 
 ---
 
 ## 📞 Contact  
-💌 Email: your-email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [Your GitHub](https://github.com/yourusername)  
+💌 Email: smithanarasimhamurthy80@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/smitha-narasimha-murthy-a9992125b/
+🐙 GitHub: https://github.com/SmithaNarasimhamurthy/
 
 ---
 
@@ -127,7 +127,3 @@ Want to improve RetinaVision AI? Feel free to contribute!
 🚀 **Let's revolutionize eye health with AI!** 🏥👁️💡  
 
 ---
-
-📌 **Replace `yourusername`, `your-email@example.com`, and links with your actual details before uploading.**  
-
-Let me know if you need modifications! 🚀🔥
